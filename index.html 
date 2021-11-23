@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- hier zet je de code in de head tags -->
+        <title> Opdracht 1 web development van Charlotte</title>
+    </head>
+    <body>
+       <!-- hier zet je de code in de body tags-->
+       <h1> This is my first heading <h1>
+       <p> This is my first paragraph <p>
+
+       <h2> This is my second heading<h2>
+       <hr> En deze paragraph is between lines<hr>
+       <p> Het lukt niet helemaal dit te openen in safari,<br> 
+       maar wel in een online editor<p>
+   
+    </body>
+</html>
